@@ -1,4 +1,4 @@
-Desafio:
+/**Desafio:
 Você receberá dois valores inteiros. Faça a leitura e em seguida calcule o produto entre estes dois valores. 
 Atribua esta operação à variável PROD, mostrando esta de acordo com a mensagem de saída esperada (exemplo abaixo).   
 
@@ -19,8 +19,9 @@ Exiba a variável PROD conforme exemplo abaixo, tendo obrigatoriamente um espaç
 |0                   |                   | 
 |9                   |   PROD = 0        |
 |----------------------------------------| 
+*/
 
-
+//Script :
 
 import java.util.Scanner;
 
