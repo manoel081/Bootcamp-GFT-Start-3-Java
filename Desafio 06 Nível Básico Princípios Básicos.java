@@ -1,3 +1,4 @@
+/**
 Com base na tabela abaixo, escreva um programa que leia o código de um item e a quantidade deste item. A seguir, calcule e mostre o valor da conta a pagar.
 ---------------------------------
 |CODIGO|  ESPECIFICAÇÃO | PREÇO |
@@ -33,7 +34,9 @@ O arquivo de saída deve conter a mensagem "Total: R$ " seguido pelo valor a ser
 |2 3                 |                   | 
 |                    |   total = R$13.50 |
 |----------------------------------------| 
+*/
 
+//Scripts:
 
 import java.util.Scanner;
 
