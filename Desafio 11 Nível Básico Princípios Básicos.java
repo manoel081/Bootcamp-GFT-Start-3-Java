@@ -1,3 +1,4 @@
+/**
 Recentemente aconteceu a fase regional da Maratona de Programação da SBC, onde mais de 600 times participaram em mais de 40 sedes diferentes pelo Brasil. 
 Seu amigo participou da competição, e quando questionado sobre sua colocação lhe disse: “Ficamos no top 10”.
 
@@ -24,7 +25,9 @@ Para cada caso de teste imprima uma linha contendo a frase “Top N”, e substi
 |--------------------|-------------------|
 |26                  | top 50            |
 |----------------------------------------| 
+*/
 
+//Scripts:
 
 import java.util.Scanner;
 
