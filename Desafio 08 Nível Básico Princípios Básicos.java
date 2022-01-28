@@ -1,3 +1,4 @@
+/**
 Seu Júlio é proprietário de um grande apiário situado no interior da Paraíba. Todo ano, semestralmente, seu Júlio coleta o mel produzido pelas 
 abelhas da sua propriedade e armazena-o em um recipiente de formato CILÍNDRICO para que facilite o transporte do mel para os estabelecimentos que 
 encomendam esse produto natural para a comercialização.
@@ -35,7 +36,9 @@ depois de AREA e outro depois do símbolo de igualdade, seguido do valor da area
 |7500.00             |   ALTURA = 42.46  | 
 |15.00               |   AREA= 176.62    |
 |----------------------------------------| 
+*/
 
+//Scripts:
 
 
 import java.util.Scanner;
