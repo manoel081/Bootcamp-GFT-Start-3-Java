@@ -1,3 +1,4 @@
+/**
 Desafio
 Jade ganhou de presente de aniversário um telescópio e ficou muito feliz,pois adora olhar a lua à noite. Ela sempre foi uma estudante muito boa,
 e só analizando a lua por duas noites seguidas, já consegue identificar as mudanças que ocorreram na iluminação e o percentual aproximado da lua que está iluminada.
@@ -30,8 +31,8 @@ conforme o exemplo abaixo. Não esqueça de imprimir o caractere de fim de linha
 |30 35               | crescente         |
 ------------------------------------------
 
-Contest Oficial de Aquecimento da Olimpíada Brasileira de Informática, Fase 2, 2015
 
+*/
 
 
 
