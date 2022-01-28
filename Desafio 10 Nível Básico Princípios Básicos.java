@@ -1,3 +1,4 @@
+/**
 Desafio
 Ao voltar de um intenso jogo de RPG na casa de um amigo, o padre do balão desapareceu misteriosamente! Todos estão loucos a procura do padre pelos céus. 
 Enquanto isso, coisas estranhas estão acontecendo em sua casa, como ele conseguir se comunicar com um menino!
@@ -30,7 +31,9 @@ Para cada caso de teste, imprima uma única linha contendo a mensagem enviada pe
 |                          |                   | 
 |                          |                   |
 |----------------------------------------------| 
+*/
 
+//Scripts
 
 import java.io.IOException;
 import java.util.Scanner;
