@@ -1,4 +1,4 @@
-Desafio
+/**Desafio
 
 Após os rivais Bruno e Guarte capturarem alguns Digitrons, eles resolveram batalhar entre eles. 
 Então decidiram fazer isso de uma forma simples, com combates no modo 1x1 e vencendo quem tem o 
@@ -35,7 +35,9 @@ Para instância na entrada você deverá imprimir o nome do treinador que vencer
 |95 12 22            |                   |
 |5 51 21             |                   |
 |----------------------------------------| 
+*/
 
+// Scripts
 
 
 import java.util.Scanner;
