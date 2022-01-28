@@ -1,4 +1,4 @@
-Desafio
+/**Desafio
 Crie um programa que leia 6 valores, os quais poderão ser negativos e/ou positivos. Em seguida, apresente a quantidade de valores positivos digitados.
 
 Entrada
@@ -19,9 +19,9 @@ mensagem de saída o sufixo " valores positivos", conforme o exemplo abaixo:
 |4.6                 |                   | 
 |12                  |                   |
 |----------------------------------------| 
+*/
 
-
-
+//Scripts
 
 import java.io.BufferedReader;
 import java.io.IOException;
